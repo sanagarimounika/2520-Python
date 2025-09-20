@@ -10,5 +10,13 @@ print('good morning')
 hello = "hello hi"
 print(hello)
 
+#class = ("10th standard")
+#print(class) SyntaxError: invalid syntax---> reason class is a keyword 
+
+classes = ("10th standard")
+print(classes)
+
+print("class")
+
 
 
