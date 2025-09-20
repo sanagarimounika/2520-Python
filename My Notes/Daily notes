@@ -240,4 +240,31 @@
              > print("good morning") / print('good morning') {""/'' is must to use} if not used- syntax error
              > print(hello) name error: (hello should be assigned)
              > hello = "hello hi" then print(hello)/ directly executing prin("hello").
-             
+
+10 sep 2025
+=================
+         ->Identifiers
+              > Any particular python entity you are working on should definately have a name, this name is called identifiers.
+
+              identifiers are names given to 
+              > variables
+              > Functional
+              > class
+              > object
+              > method
+              > etc
+
+            -> Rules  
+               - Can contain 
+
+                  > Letters(a-z,A-Z)
+                  > digits (0-9)
+                  > underscore (_) in special characters only underscore is used.
+
+               - Must start with 
+
+                  > a letter or underscore
+
+        NOTE: keywords cannot be identifiers.
+
+        
