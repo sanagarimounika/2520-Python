@@ -1,4 +1,14 @@
 # means comment, python will skip execution of this line
-a = 10
-b = 20
-print(a+b)
+
+# syntax rules
+#print (good morning) if in text we need to enclose the text with "" or ''
+# print(9) is numeric 
+
+print("good morning")
+print('good morning')
+
+hello = "hello hi"
+print(hello)
+
+
+
