@@ -18,5 +18,23 @@ print(classes)
 
 print("class")
 
+#identifiers
+
+data = "hello good morning"
+print(data)
+#1day = "hello good morning"  {cannot start wih=th numerics/digits}
+#print(1day)
+_data = "hello very good morning"
+print(_data)
+
+#improper way of using identifiers
+x = "Mounika"
+y = 26
+z = "python"
+
+#proper way of using identifiers 
+student_name = "Mounika"     ('_' must use underscore in the name )
+student_name = 26
+student_enrolled_course = "python"
 
 
