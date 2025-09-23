@@ -267,4 +267,19 @@
 
         NOTE: keywords cannot be identifiers.
 
-        
+      -> variables
+
+            -> variables are the names for memory(RAM) locations.
+            
+            > variables allows you to 
+                ->Assign data
+                -> Retrive data
+                -> Manipulate data(if required)
+
+    --> syntax :
+
+            > variable_name = value (variable_name should be adhering to the rules of identifiers)
+            > student_name = "Mounika"
+            > '=' is called as the assignment operator.
+            
+    
